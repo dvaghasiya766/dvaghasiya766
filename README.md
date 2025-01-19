@@ -1,4 +1,4 @@
-<center> *** Hi 👋, I'm Dev Vaghasiya! *** </center>
+# Hi 👋, I'm Dev Vaghasiya!
 
 <!--
 **dvaghasiya766/dvaghasiya766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
